@@ -5,9 +5,10 @@ Red Walls will KILL you!
 
 Collect all 12 coins in 60 seconds to WIN!
 
-30s+ remaining: 3 Stars
-15s to 29s remaining: 2 Stars
-Less than 15s: 1 Star
+- 30s+ remaining: 3 Stars <p>
+- 15s to 29s remaining: 2 Stars <p>
+- Less than 15s: 1 Star<p>
+
 Made by Alexandre Santarossa
 
 itch.io: https://alexandresantarossa.itch.io/roll-and-catch
